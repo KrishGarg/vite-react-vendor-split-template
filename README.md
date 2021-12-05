@@ -4,6 +4,18 @@
 
 **Note:** You can remove `react-icons` as it is only installed for the example.
 
+## Quick Clone:
+
+```shell
+npx degit KrishGarg/vite-react-vendor-split-template#main
+```
+
+## Example:
+
+Keep looking in the Network tab and the Sources tab to see the real power of code splitting.
+
+https://vite-react-vendor-split.surge.sh/
+
 ## So, what is this?
 
 First of all, if you don't know what code-splitting is, I would suggest checking the [official page](https://reactjs.org/docs/code-splitting.html) in the react docs.
